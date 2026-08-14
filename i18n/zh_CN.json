@@ -1,0 +1,8 @@
+{
+  "openManager": "打开书籍管理",
+  "dockTitle": "书籍概览",
+  "topBarTitle": "书籍管理",
+  "settingLicenseTitle": "高级版授权",
+  "settingLicenseDesc": "基础版可手动管理书库；高级版支持 ISBN 自动补全、资源文件和笔记联动",
+  "licenseDialogTitle": "高级版授权"
+}

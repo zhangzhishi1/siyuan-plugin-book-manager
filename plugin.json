@@ -1,0 +1,43 @@
+{
+  "name": "siyuan-plugin-book-manager",
+  "author": "booknote",
+  "url": "https://github.com/zhangzhishi1/siyuan-plugin-book-manager",
+  "version": "0.1.0",
+  "minAppVersion": "3.7.0",
+  "icon": "icon.png",
+  "backends": [
+    "windows",
+    "linux",
+    "darwin"
+  ],
+  "frontends": [
+    "desktop",
+    "desktop-window"
+  ],
+  "displayName": {
+    "default": "Book Manager",
+    "zh_CN": "书籍管理"
+  },
+  "description": {
+    "default": "A paid personal-library plugin with ISBN lookup, source files, reading progress, and updatable SiYuan note cards.",
+    "zh_CN": "付费个人书库插件，支持 ISBN 检索、源文件、阅读进度和可更新的思源笔记卡片。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": []
+  },
+  "keywords": [
+    "book",
+    "reading",
+    "library",
+    "书籍",
+    "阅读",
+    "书单"
+  ]
+}

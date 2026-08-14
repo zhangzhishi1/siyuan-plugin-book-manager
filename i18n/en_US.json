@@ -1,0 +1,8 @@
+{
+  "openManager": "Open Book Manager",
+  "dockTitle": "Library Overview",
+  "topBarTitle": "Book Manager",
+  "settingLicenseTitle": "Pro Edition License",
+  "settingLicenseDesc": "Basic: manual library management; Pro: ISBN lookup, resources, and note integration",
+  "licenseDialogTitle": "Pro Edition License"
+}
