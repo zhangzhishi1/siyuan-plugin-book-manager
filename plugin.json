@@ -2,7 +2,7 @@
   "name": "siyuan-plugin-book-manager",
   "author": "booknote",
   "url": "https://github.com/zhangzhishi1/siyuan-plugin-book-manager",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "minAppVersion": "3.7.0",
   "backends": [
     "windows",

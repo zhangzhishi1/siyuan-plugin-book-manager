@@ -11,6 +11,16 @@ Keep your library, reading progress, and notes in one connected workflow. Book M
 - **Updatable book cards**: write the cover, metadata, source-file links, and notes into the linked document. Updates replace only plugin-managed blocks and preserve your own writing.
 - **Library overview**: review reading totals, status distribution, average rating, categories, and common tags in the dock.
 
+## Changelog
+
+### 0.1.2
+
+- Basic and Pro can both search books by title, author, ISBN, tags, publisher, and notes
+- Basic can upload, paste, and locally save covers without restrictions
+- Each book can link to exactly one SiYuan note document; relinking replaces the previous link
+- Fixed cross-origin requests that prevented Pro ISBN quick add from working
+- Improved performance and fixed known issues
+
 ## Getting Started
 
 1. Install and enable the plugin, then open it from the book icon in the top bar.
@@ -27,15 +37,16 @@ The Basic Edition covers manual personal-library management:
 - Manually add, edit, and delete books
 - Track reading status, progress, ratings, categories, tags, and personal notes
 - Browse the library in list, table, and grid views
-- Search, filter, and sort by keywords, reading status, categories, and tags
+- Search by title, author, ISBN, tags, publisher, and notes, with reading-status, category, and tag filters
+- Upload, paste, or locally save remote covers
 
 ### Pro Edition
 
 The Pro Edition includes everything in Basic, plus automation and SiYuan note integration:
 
 - Multi-provider ISBN lookup for title, author, publisher, publication date, cover, and tags
-- Cover, PDF, EPUB, MOBI, AZW3, TXT, and external source-link management
-- Existing SiYuan document linking and book cards with metadata, source links, and notes
+- PDF, EPUB, MOBI, AZW3, TXT, and external source-link management
+- One existing SiYuan note document per book, with book cards containing metadata, source links, and notes
 - One-click checking and updating of linked notes while preserving user-written content
 - Document-tree category sync, reading statistics, category distribution, and tag overview
 
