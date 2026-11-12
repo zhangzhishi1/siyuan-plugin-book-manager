@@ -2,7 +2,7 @@
   "name": "siyuan-plugin-book-manager",
   "author": "booknote",
   "url": "https://github.com/zhangzhishi1/siyuan-plugin-book-manager",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "minAppVersion": "3.7.0",
   "backends": [
     "windows",
@@ -22,7 +22,7 @@
     "zh_CN": "管理书库、阅读进度与笔记；高级版支持 ISBN 检索、源文件与思源文档卡片联动。"
   },
   "readme": {
-    "default": "README.md",
+    "default": "README_zh_CN.md",
     "zh_CN": "README_zh_CN.md"
   },
   "funding": {
