@@ -6,6 +6,13 @@
 
 [项目主页](https://github.com/zhangzhishi1/siyuan-plugin-book-manager) · [版本下载](https://github.com/zhangzhishi1/siyuan-plugin-book-manager/releases) · [问题反馈](https://github.com/zhangzhishi1/siyuan-plugin-book-manager/issues) · [购买高级版](https://e.tb.cn/h.j9xZFoT3Oz3FKjg?tk=wTj86dm4H5t)
 
+## 本次更新
+
+**0.1.7：问题修复。**
+
+- 修复构建时自动写入本机思源插件目录的问题，构建产物仅输出至当前项目的 dist 目录，安装包生成在项目根目录。
+- 统一使用中文说明文档 README.md，不再提供单独的中英文说明版本。
+
 ## 界面预览
 
 ![书库界面：阅读进度、评分、筛选与书籍卡片](https://raw.githubusercontent.com/zhangzhishi1/siyuan-plugin-book-manager/main/preview.png)
